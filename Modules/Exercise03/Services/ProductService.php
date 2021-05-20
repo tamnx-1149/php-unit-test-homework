@@ -14,7 +14,7 @@ class ProductService
 {
     const CRAVAT_WHITE_SHIRT_DISCOUNT = 5;
     const QUANTITY_DISCOUNT = 7;
-    const TOTAL_PRODUCT_TO_DISCOUNT = 7;
+    const TOTAL_PRODUCT_TO_DISCOUNT = 70;
 
     /**
      * @var ProductRepository
